@@ -6,15 +6,15 @@
 
 测试电路图如下
 
-![电路原理图](/STC8H1K08-SCH.png "电路原理图")
+![电路原理图](SCH_Schematic1_1-P1_2024-04-19.svg "电路原理图")
 
 随便选了一个例程测试，因为日后肯定要用到ADC，故选择带ADC的例程，具体代码没仔细看过
 
-![program](/program.png "program")
+![program](program.png "program")
 
 得到如下结果
 
-![result](/result.png "result")
+![result](result.png "result")
 
 从表格中可以看出来，该MCU的功耗和主频大致呈线性关系，每1MHz主频消耗约110uA的电流，有一些固定的电流消耗，在1.27mA左右
 
